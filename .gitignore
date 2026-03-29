@@ -1,0 +1,38 @@
+# Binaries for programs and plugins
+/bin/
+/backend/bin/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Vendor
+vendor/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# Go build
+*.test
+
+# Environment / secrets
+.env
+.env.*
+secrets/
+*.secret
+Agent.md
+agent_state.json
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Misc
+coverage.out
