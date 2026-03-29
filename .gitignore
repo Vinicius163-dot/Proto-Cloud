@@ -27,7 +27,6 @@ build/
 .env.*
 secrets/
 *.secret
-Agent.md
 agent_state.json
 
 # OS files
